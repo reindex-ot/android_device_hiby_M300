@@ -85,9 +85,6 @@ BOARD_SUPER_PARTITION_GROUPS := hiby_dynamic_partitions
 BOARD_HIBY_DYNAMIC_PARTITIONS_PARTITION_LIST := system system_ext product vendor
 BOARD_HIBY_DYNAMIC_PARTITIONS_SIZE := 9122611200 # TODO: Fix hardcoded value
 
-# Building Recovery Image
-PRODUCT_BUILD_RECOVERY_IMAGE := true
-
 # Platform
 TARGET_BOARD_PLATFORM := trinket
 
