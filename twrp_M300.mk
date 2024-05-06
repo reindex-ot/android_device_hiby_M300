@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/hiby/M300/device.mk)
 
 PRODUCT_DEVICE := M300
-PRODUCT_NAME := twrp_M300
+PRODUCT_NAME := omni_M300
 PRODUCT_BRAND := HIBYDIGITAL
 PRODUCT_MODEL := M300
 PRODUCT_MANUFACTURER := hiby
